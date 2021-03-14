@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/danialnaseri/react-eCommerce/static/css/main.b916288e.chunk.css",
+    "main.js": "/danialnaseri/react-eCommerce/static/js/main.57de051a.chunk.js",
+    "main.js.map": "/danialnaseri/react-eCommerce/static/js/main.57de051a.chunk.js.map",
+    "runtime-main.js": "/danialnaseri/react-eCommerce/static/js/runtime-main.37920106.js",
+    "runtime-main.js.map": "/danialnaseri/react-eCommerce/static/js/runtime-main.37920106.js.map",
+    "static/js/2.83e09cd7.chunk.js": "/danialnaseri/react-eCommerce/static/js/2.83e09cd7.chunk.js",
+    "static/js/2.83e09cd7.chunk.js.map": "/danialnaseri/react-eCommerce/static/js/2.83e09cd7.chunk.js.map",
+    "index.html": "/danialnaseri/react-eCommerce/index.html",
+    "precache-manifest.2eab9f330e54d0e3fadb0f50047daaca.js": "/danialnaseri/react-eCommerce/precache-manifest.2eab9f330e54d0e3fadb0f50047daaca.js",
+    "service-worker.js": "/danialnaseri/react-eCommerce/service-worker.js",
+    "static/css/main.b916288e.chunk.css.map": "/danialnaseri/react-eCommerce/static/css/main.b916288e.chunk.css.map",
+    "static/js/2.83e09cd7.chunk.js.LICENSE.txt": "/danialnaseri/react-eCommerce/static/js/2.83e09cd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37920106.js",
+    "static/js/2.83e09cd7.chunk.js",
+    "static/css/main.b916288e.chunk.css",
+    "static/js/main.57de051a.chunk.js"
+  ]
+}
